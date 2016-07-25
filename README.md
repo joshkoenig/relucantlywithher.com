@@ -9,7 +9,7 @@ In short order I'll be turning this into a microsite with it's own domain. I nee
 
 ### History
 
-I [worked professionallyy](http://blogs.harvard.edu/lydondev/2003/12/04/music-for-america-sountrack-of-the-transformation/) on the 2004 presidential cycle in one of the first overt efforts to organize and turn out millennial voters. Perhaps I'm falling victim to the human tendency to relive one's glory days, but it seems that the dynamics of that race presented challenges that are reminiscent of today.
+I [worked professionally](http://blogs.harvard.edu/lydondev/2003/12/04/music-for-america-sountrack-of-the-transformation/) on the 2004 presidential cycle in one of the first overt efforts to organize and turn out millennial voters. Perhaps I'm falling victim to the human tendency to relive one's glory days, but it seems that the dynamics of that race presented challenges that are reminiscent of today.
 
 Circa 2004 George W Bush was still broadly popular, but to younger voters he presented much to organize "against", from his initiation of war in Iraq to his alliance with regressive anti-equality social forces. The stakes seemed very high. However, the Democratic nominee, John Kerry, was problematic. A compromising, uncharismatic, centrist career politician with a cerebral style and deep establishment roots, his campaign struggled to create a digestible message capable of energizing the electorate, and had difficulty fending off negative attacks and narratives from both the right and the left.
 
