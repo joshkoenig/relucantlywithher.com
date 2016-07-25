@@ -1,4 +1,4 @@
-# How I Overcame my Reluctance for Voting Clinton
+# How I Overcame My Reluctance To Voting Clinton
 
 I am not drawn to Hillary Clinton as a candidate. I didn't support her in 2008, and I didn't cast my primary vote for her this year either. However, I've overcome my reservations about her and will be voting for her in November. In this short essay, I'll explain my thinking, starting with how I found peace with my negative feelings, and then some reasons to be optimistic about President Clinton.
 
@@ -52,10 +52,28 @@ But when you do get past it, this weakness is in it's own way a call to action. 
 
 ## Part 2 - The Good Stuff
 
+(This part is still a work in progress.)
+
 ### A Wound to the Patriarchy
+
+We should honestly be excited about this for the same reasons we were excited about Obama. There's nothing wrong with being proud about the win of having the first female president. I've got a daughter now, and I believe this will make a real difference in how she sees the world.
+
+Also, microagressions in the primaries pale in comparison to the vitrol this is drawing from the GOP. I think it will ultimately be positive to pull this to the surface.
 
 ### Pack the Court
 
+https://twitter.com/franklinleonard/status/757316241472172032
+
+"I don't know about you, but I'm voting for a three decade liberal majority on the Supreme Court this November."
+
 ### Someone We Can Push
 
-### 
+All of the above about her being maileable, and the necessity of not getting super focused on the singular office of the president. If we want good things to happen, we have to stay organized and keep pushing. Hillary is the pushable candidate.
+
+### She Knows How To Fight
+
+Obama pissed away his window of opportunity looking for a grand bargan or compromise with the then-minority GOP. I don't believe Clinton will make similar mistakes. 
+
+### The Dream Scenario
+
+If Clinton wins big, and the election manages to flip the senate and bring the house closer, the GOP could well descend further into internal infighting. There will be an opportunity to get some real governing done, while the Republican party goes through a long overdue reboot. 
