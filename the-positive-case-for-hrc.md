@@ -2,11 +2,11 @@
 
 I am not drawn to Hillary Clinton as a candidate. I didn't support her in 2008, and I didn't cast my primary vote for her this year either. However, I've overcome my reservations about her and will be voting for her in November. In this short essay, I'll explain my thinking, starting with how I found peace with my negative feelings, and then some reasons to be optimistic about President Clinton.
 
-## Part 1 - Reasons for Depression and How I Got Past Them
+## Reasons for Depression and How I Got Past Them
 
 ### Her Hawkish Foreign Policy
 
-The most significant problem I have with Hillary Clinton is [her hawkish military instincts](http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0). Beginning with her vote for the war in Iraq, proceeding through the way she campaigned in 2008, and continuing during her tenure as Secretary of State, she's exhibited a comfortability with unleashing violence, a belief in American hegemony, and a skepticism towards peacemaking and international cooperation. I'm not down with that.
+The most significant reservation I have about Hillary Clinton is [her hawkish military instincts](http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0). Beginning with her vote for the war in Iraq, proceeding through the way she campaigned in 2008, and continuing during her tenure as Secretary of State, she's exhibited a comfortability with unleashing violence, a belief in American hegemony, and a skepticism towards peacemaking and international cooperation. I'm not down with that.
 
 Putting it in the harshest terms, her political legacy includes getting a lot of people killed, and she seems to see this as a selling point. She is proud to be buddies with Henry Kissinger for crying out loud. 
 
@@ -50,30 +50,57 @@ That said, I do think that we're not used to seeing this relatively common combi
 
 But when you do get past it, this weakness is in it's own way a call to action. Let's be honest, Clinton's candidacy needs help, and what it needs help with the most is communication. There's a natural place for you to fit in and help out by making the case for Hillary in your own language to your own people. You'll probably do a better job than she will, and the world will thank you for your service.
 
-## Part 2 - The Good Stuff
+# Reasons To Actually Get Excited
 
-(This part is still a work in progress.)
+I framed this piece the way I did because I am trying to appeal to people who (like me) start off as less than energized about voting for Clinton. Maybe you feel like it's like a duty, a reluctant chore. A "hold your nose and vote" moment. I'm not saying you're wrong, but I am asking you to consider that there are legitimate reasons to be enthusiastic about the potential for President HRC.
 
-### A Wound to the Patriarchy
+## The Good Stuff
 
-We should honestly be excited about this for the same reasons we were excited about Obama. There's nothing wrong with being proud about the win of having the first female president. I've got a daughter now, and I believe this will make a real difference in how she sees the world.
+### Smash Patriarchy
 
-Also, microagressions in the primaries pale in comparison to the vitrol this is drawing from the GOP. I think it will ultimately be positive to pull this to the surface.
+We should honestly be excited about this campaign for the same national identity reasons we were excited about Obama. There's nothing wrong with being proud about voting for our first female president. It's one of the most simple and pure reasons to be positive and happy about this campaign. It's a real thing! Enjoy it!
+
+It will also be a huge fight. Clinton's candidacy will unleash public debate about sexism and the role of women that could well be more fraught than what came out of Obama's term in office, and no less vital. The microagressions of the primaries pale in comparison to the vitrol this is drawing from the GOP. I believe it is positive to pull this venom to the surface so it can be directly and publicly rejected.
+
+I've got a daughter now, and I believe it will make a real difference in how she sees the world if she grows up knowing that a woman can lead this country. Maybe this matters to you, and even if not I'm sure you have sisters, neices, cousins, and friends for whom it will mean a lot. 
 
 ### Pack the Court
 
-https://twitter.com/franklinleonard/status/757316241472172032
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I don&#39;t know about you, but I&#39;m voting for a three decade liberal majority on the Supreme Court this November.</p>&mdash; Franklin Leonard (@franklinleonard) <a href="https://twitter.com/franklinleonard/status/757316241472172032">July 24, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-"I don't know about you, but I'm voting for a three decade liberal majority on the Supreme Court this November."
+If you are any kind of political nerd, you know the next four years will be hugely consequential for the Supreme Court. There's one vacancy to replace arch-conservative Antonin Scalia, and likely openings from liberal icon Ruth "The Notorious RBG" Bader Ginsburg and possibly "swing vote" Anthony Kennedy, both of whom are over 80 years old. There are also rumors on the internets that Clarance Thomas would like to retire relatively early.
+
+President Clinton's legacy could be a progressive Supreme Court that lasts through the next several administrations. From a brass tacks policy standpoint, this is the single biggest win on the table. A Clinton court would have positive implications for a wide array of issues, both in terms of allowing a progressive agenda to proceed, and also acting as a backstop when the pendulum inevitably swings back the other way. 
+
+It's hard to understate how much of a difference this could make, especially considering that virtually any significant achievement in law over the next 30 years will almost certainly recieve the same kind of desperate legal challenges as the Affordable Care Act did. Locking up the Supreme Court would be a generational-level win for progress. 
 
 ### Someone We Can Push
 
-All of the above about her being maileable, and the necessity of not getting super focused on the singular office of the president. If we want good things to happen, we have to stay organized and keep pushing. Hillary is the pushable candidate.
+Realistically, the change we all want to see won't come by electing a single person to a single office. Presidential elections are huge, sweeping events — the main event in US Politics — but we all know it takes a lot more than a President to make change happen. At a minimum you have to have a Congress that will approve funds and legislate your agenda, and to get that you need a large ongoing effort by citizens to counteract the ever present influence of the status-quo and special interests.
+
+While Clinton is frankly a mostly status-quo candidate herself, as I've mentioned above she is responsive to political pressure, including pressure from the left. This means that for anyone on board with the long-term effort to make the country (and the world) a better place, her election represents an opportunity. 
+
+Continued orginization and activism during her term in office should be able to get better policies enacted. Moreover, a Clinton presidency would be an chance to "move the Overton window," shifting the bounds of what's seen as thinkable or doable by establishment types, another generational victory.
+
+Clearly we can't just elect her and expect her to take care of business, but the truth is that is never going to happen no matter who occupies the oval office, a mistake I think a lot of people made with Obama. Change takes a lot of people getting involved and staying involved (meaning they do so sustainably) not just to elect leaders, but to to create public momentum and leverage to pressure them to action once in office.
 
 ### She Knows How To Fight
 
-Obama pissed away his window of opportunity looking for a grand bargan or compromise with the then-minority GOP. I don't believe Clinton will make similar mistakes. 
+Speaking of Obama, my biggest disappointment with him is that he squandered his own window of opportunity, the congressional majority during the first two years of his term. That was the time to unabashedly push his agenda, but instead he reached out for a grand bargan or compromise with the then-minority GOP. 
 
-### The Dream Scenario
+That didn't go well, and he was subsequently burned multiple times trying to "negotiate" with GOP congressional and senate leaders who were pretty clearly acting in bad faith. It wasn't really until he was into his second term that Obama stopped looking for a fantasy bi-partisan consensus, but by then it was far too late.
 
-If Clinton wins big, and the election manages to flip the senate and bring the house closer, the GOP could well descend further into internal infighting. There will be an opportunity to get some real governing done, while the Republican party goes through a long overdue reboot. 
+Hillary Clinton has had the GOP attempting to destroy her for almost a quarter centiry. She has no illusions about who her opposition will be and how they operate, and if she wins they will throw the kitchen sink at her. 
+
+### The Positive Vision
+
+A Clinton presidency presents a lot of opportunity for progress, and not just for the reasons I've outlined above. I don't think it's unreasonable to envision a Clinton presidency providing the conditions under which much more meaningful longer-term changes can begin.
+
+The neoliberal consensus which she symbolizes is in the process of unraveling, and we're likely to see lots of reorganization of our politics over the next few cycles as the baby boomers begin to age out of leadership roles. Having the next four years (or more) be charactarized by advancing an agenda and building a movement which is able to achieve results will provide fertile ground for a next generation to emerge.
+
+The best case scenario for this fall is that not only does Clinton prevail, but that she does so in a big way, as part of an elevated level of turnout which reverses control of the Senate, and narrows the GOP House majority. This would likely lead to a breakdown of organized and disciplined opposition, and create a window of opportunity to advance  broadly popular legislation.
+
+If that were to occur not because of Clinton's campaign directly, but rather as a result of a broader people powered organization which included investments in state and local campaigns and candidates, this would be a golden opportunity for a "do over" on 2008: the ability to have people put a candidate over the top, and to continue organizing to keep that candidate motivated do fulfill her mandate.
+
+My positive vision is not one of what Clinton can do for us, but more about what could be accomplished by using her presidency as a vehicle for change and organization.
