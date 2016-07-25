@@ -6,7 +6,7 @@ I am not drawn to Hillary Clinton as a candidate. I didn't support her in 2008, 
 
 ### Her Hawkish Foreign Policy
 
-The most significant problem I have with Hillary Clinton is (her hawkish military instincts)[http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0]. Beginning with her vote for the war in Iraq, proceeding through the way she campaigned in 2008, and continuing during her tenure as Secretary of State, she exhibits a comfortability with unleashing violence, a believe in American hegemony, and a skepticism towards peacemaking and international cooperation. 
+The most significant problem I have with Hillary Clinton is [her hawkish military instincts](http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0). Beginning with her vote for the war in Iraq, proceeding through the way she campaigned in 2008, and continuing during her tenure as Secretary of State, she exhibits a comfortability with unleashing violence, a believe in American hegemony, and a skepticism towards peacemaking and international cooperation. 
 
 Putting it in the harshest terms, her political legacy includes getting a lot of people killed, and she seems to see this as a selling point. She is proud to be buddies with Henry Kissinger for crying out loud. 
 
@@ -38,9 +38,9 @@ My sense is that while she won't push the envelope for progress she'll go as far
 
 Hillary Clinton is by her own admission not a good campaigner. She's not a very good public speaker, which is hard not to notice compared to the incumbent Obama, or her primary opponent Bernie Sanders. 
 
-This weakness was exposed during the primary debates whenever they got to (the closing remarks)[https://www.youtube.com/watch?v=xpTSYFf2YRQ]. Sanders would do his thing starting with his growing up poor, pivoting to the issue of inequality, and eloquently presenting the mission of his campaign. And then Clinton would basically run through a checklist. It was cringy.
+A stark example of weakness was during the primary debates whenever they got to [the closing remarks](https://www.youtube.com/watch?v=xpTSYFf2YRQ). Sanders give a rehearsed but personable homily, starting with his growing up poor, pivoting to the issue of inequality, and finally eloquently presenting the mission of his campaign. In response, Clinton would basically run through a checklist. It was cringy, and impossible not to notice the different levels of audience response.
 
-As someone who spent their early career practicing law, and their mid-life to late adulthood under harsh and adversarial scruitiny, she is highly guarded and deliberate in what she says. She's risk-averse. She sticks to the script. The script is written from within her campaign's bubble and sometimes isn't super great. And again, she's not a natural orator. 
+As someone who spent their early career practicing law, and their mid-life to late adulthood under harsh and adversarial scruitiny, Hillary Clinton is highly guarded and deliberate in what she says. She's risk-averse. She sticks to the script. The script is written from within her campaign's bubble and sometimes isn't super great. And again, she's not a natural orator. 
 
 Similar to her shifting positions, I think this is actually about average as politicians go. It's more annoying than a reason to oppose her, but I list it here because if I'm being honest, it has contributed to my sense of depression. Ideally I want a candidate who inspires me, which she does not. 
 
@@ -50,7 +50,7 @@ But when you do get past it, this weakness is also a call to action. Let's be ho
 
 ## Part 2 - The Good Stuff
 
-### Deal a Wound to the Patriarchy
+### A Wound to the Patriarchy
 
 ### Pack the Court
 
