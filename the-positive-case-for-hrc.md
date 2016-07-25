@@ -68,7 +68,7 @@ https://twitter.com/franklinleonard/status/757316241472172032
 
 ### Someone We Can Push
 
-All of the above about her being maileable, and the necessity of not getting super focused on the singular office of the president. If we want good things to happen, we have to stay organized and keep pushing. Hillary is the pushable candidate.
+All of the above about her being malleable, and the necessity of not getting super focused on the singular office of the president. If we want good things to happen, we have to stay organized and keep pushing. Hillary is the pushable candidate.
 
 ### She Knows How To Fight
 
