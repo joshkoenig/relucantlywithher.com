@@ -93,14 +93,24 @@ That didn't go well, and he was subsequently burned multiple times trying to "ne
 
 Hillary Clinton has had the GOP attempting to destroy her for almost a quarter centiry. She has no illusions about who her opposition will be and how they operate, and if she wins they will throw the kitchen sink at her. 
 
-### The Positive Vision
-
-A Clinton presidency presents a lot of opportunity for progress, and not just for the reasons I've outlined above. I don't think it's unreasonable to envision a Clinton presidency providing the conditions under which much more meaningful longer-term changes can begin.
-
-The neoliberal consensus which she symbolizes is in the process of unraveling, and we're likely to see lots of reorganization of our politics over the next few cycles as the baby boomers begin to age out of leadership roles. Having the next four years (or more) be charactarized by advancing an agenda and building a movement which is able to achieve results will provide fertile ground for a next generation to emerge.
-
-The best case scenario for this fall is that not only does Clinton prevail, but that she does so in a big way, as part of an elevated level of turnout which reverses control of the Senate, and narrows the GOP House majority. This would likely lead to a breakdown of organized and disciplined opposition, and create a window of opportunity to advance  broadly popular legislation.
-
-If that were to occur not because of Clinton's campaign directly, but rather as a result of a broader people powered organization which included investments in state and local campaigns and candidates, this would be a golden opportunity for a "do over" on 2008: the ability to have people put a candidate over the top, and to continue organizing to keep that candidate motivated do fulfill her mandate.
+### A Positive Scenario: Overturning Citizens United
 
 My positive vision is not one of what Clinton can do for us, but more about what could be accomplished by using her presidency as a vehicle for change and organization.
+
+A Clinton presidency presents opportunity for progress, and not just for the reasons I've outlined above. While her campaign itself is a moderate center-left affair, I don't think it's unreasonable to envision a Clinton presidency providing the conditions for more meaningful longer-term changes to begin.
+
+The neoliberal consensus which she symbolizes is in the process of unraveling, just as the GOP's core coalition is coming apart. We're likely to see a lot of reorganization of our politics over the next few cycles as  baby boomers begin to age out of leadership roles. Having the next four years (or more) be charactarized by advancing an agenda and building a movement which is able to achieve results will provide fertile ground for a next generation to emerge.
+
+It's a lot better to be playing offense.
+
+The best case scenario for this fall is that not only does Clinton prevail, but that she does so as part of an elevated level of turnout which reverses control of the Senate, and narrows the GOP House majority. This would likely lead to a breakdown of organized and disciplined opposition, and create a window of opportunity to advance broadly popular legislation.
+
+One of Clinton's more promising campaign promises is to introduce a consitutional amendment to overturn Citizens United. This is vital if we want to reduce the political influence of corporations and the hyper-wealthy, but passing a constitutional amendment requires a nationwide referrendum in which two 38 out of 50 states must ratify the change. That means we'll need a serious 50-state strategy once again.
+
+This kind of operation will not be driven by a President, or even by the Democratic party. It will have to be a broader people powered coalition, providing a golden opportunity for a "do over" on 2008: the ability to put a candidate over the top, and to continue organizing to keep that candidate (and others) motivated do fulfill her mandate, while also achieving wins at the state and local level.
+
+This is the kind of organization which could grow in strength through a period of political realignment, maturing into a meaningful and enduring vehicle for positive change.
+
+Now, is it the most likely outcome of electing Hillary Clinton? No. But it's a lot more realistic than thinking we can blow it all up and start over, or that protest alone can deliver real change. It will take a lot of work and probably some luck, but ultimately we must realize that the positive potential democracy doesn't begin and end at the ballot box, and practice the art of controlling our environment.
+
+President Clinton will provide much better future conditions for improving the world than the alternative. On that basis, any progressive should be able to cast her or his vote for Hillary with a clean conscience. 
