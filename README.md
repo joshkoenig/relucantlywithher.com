@@ -1,4 +1,4 @@
-# Hillary Clinton is a _____ but I'm Voting for Her Anyway (dot com)
+# Hillary Clinton is meh but I'm Voting for Her Anyway (dot com)
 ## Doing the Needful in 2016
 
 ### About
