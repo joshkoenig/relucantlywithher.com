@@ -105,7 +105,7 @@ It's a lot better to be playing offense.
 
 The best case scenario for this fall is that not only does Clinton prevail, but that she does so as part of an elevated level of turnout which reverses control of the Senate, and narrows the GOP House majority. This would likely lead to a breakdown of organized and disciplined opposition, and create a window of opportunity to advance broadly popular legislation.
 
-One of Clinton's more promising campaign promises is to introduce a consitutional amendment to overturn Citizens United. This is vital if we want to reduce the political influence of corporations and the hyper-wealthy, but passing a constitutional amendment requires a nationwide referrendum in which two 38 out of 50 states must ratify the change. That means we'll need a serious 50-state strategy once again.
+One of Clinton's more exciting campaign promises is to introduce a consitutional amendment to overturn Citizens United. This is vital if we want to reduce the political influence of corporations and the hyper-wealthy, but passing a constitutional amendment requires a nationwide referrendum in which two 38 out of 50 states must ratify the change. That means we'll need a serious 50-state strategy once again.
 
 This kind of operation will not be driven by a President, or even by the Democratic party. It will have to be a broader people powered coalition, providing a golden opportunity for a "do over" on 2008: the ability to put a candidate over the top, and to continue organizing to keep that candidate (and others) motivated do fulfill her mandate, while also achieving wins at the state and local level.
 
