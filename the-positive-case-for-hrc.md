@@ -111,6 +111,6 @@ This kind of operation will not be driven by a President, or even by the Democra
 
 This is the kind of organization which could grow in strength through a period of political realignment, maturing into a meaningful and enduring vehicle for positive change.
 
-Now, is it the most likely outcome of electing Hillary Clinton? No. But it's a lot more realistic than thinking we can blow it all up and start over, or that protest alone can deliver real change. It will take a lot of work and probably some luck, but ultimately we must realize that the positive potential democracy doesn't begin and end at the ballot box, and practice the art of controlling our environment.
+Now, is it the most likely outcome of electing Hillary Clinton? No. But it's a lot more realistic than thinking we can blow it all up and start over, or that protest alone can deliver real change. It will take a lot of work and probably some luck, but ultimately we must realize that the positive potential of democracy doesn't begin and end at the ballot box, and practice the art of controlling our environment.
 
 President Clinton will provide much better future conditions for improving the world than the alternative. On that basis, any progressive should be able to cast her or his vote for Hillary with a clean conscience. 
