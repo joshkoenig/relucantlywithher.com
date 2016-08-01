@@ -2,17 +2,19 @@
 
 ## A Personal Story
 
-I cast my first presidential ballot in 2000 for Ralph Nader. It was ok. I lived in New York City, voting in a safe state. I believed that Al Gore and George W Bush were like [Kang and Kodos](https://www.youtube.com/watch?v=4v7XXSt9XRM). When Bush won his case in the Supreme Court and became president my opinion was like, "whatever man, just another white-bread corporate overlord." I didn't feel even the slightest hit of remorse over my principled vote for my conscience.
+I cast my first presidential ballot in 2000 for Ralph Nader. It was ok. I lived in New York City, voting in an ultra-safe state. I believed that Al Gore and George W Bush were like [Kang and Kodos from the Simpsons](https://www.youtube.com/watch?v=4v7XXSt9XRM). When Bush won his case in the Supreme Court and became president my opinion was like, "whatever man, just another white-bread corporate overlord." 
+
+The point is, I didn't feel even the slightest bit of remorse over my principled vote for my conscience. For what its worth I also didn't see any signs that the Democratic party was about to listen to the Nader voters and start tracking to the left, but again, whatever. After the election I went back to living my life as a college student at NYU.
 
 And then, 9/11.
 
-Maybe you saw that coming. I'm reluctant to use those attacks in a political argument — the way the lives lost were abused as symbols in the following years was deeply sickening to me. And I'm not in any way suggesting that anything like that will happen again in the next four years. But it's part of the truth of my story.
+Maybe you saw that coming. I'm reluctant to use those attacks in political arguments — the way they've been abused as symbols in the following years is still deeply sickening to me. I'm also in no way suggesting that anything like that will happen again in the next four years. But it's part of the truth of my story.
 
-Elections have consequences, as I saw. If you were young at the time, you might not remember the details. Suffice to say, Bush and his whole squad took the moment and _ran with it_. We're still paying for that now, and will be for many years to come.
+Elections have consequences, as I learned the hard way. If you were young at the time, you might not remember the details. Suffice to say, Bush and his whole squad took the moment and _ran with it_. We're still paying for that now, and will be for many years to come.
 
 For all I thought about Al Gore, in retrospect there's no way he would have whipped the US into invading Iraq in the aftermath. When I thought about it, I didn't regret my vote in New York (again, inconsequential). What I regretted with my 20/20 hindsight was not getting on a bus, going to Florida, and organizing. 
 
-I could probably get 538 net new voters to the polls, I thought. There was a real act I could have taken that could have made a powerful difference.That's when I started paying more attention and getting more engaged in activism with a pragmatic perspective, something that's stuck with me ever since.
+I could probably have gotten 538 net new voters to the polls, I thought. There was a real act I could have taken that could have made a powerful difference. That's when I started paying more attention and getting more engaged in activism with a pragmatic perspective, something that's stuck with me ever since.
 
 What I learned is that politics matter in more specific and mundane ways than I really appreciated. Marginal differences actually have a huge impact when there's a lot of power behind them. I also learned that you're not just voting for a President - you're voting for an _administration_, for a way of doing things that even under normal/boring conditions will have ripple effect consequences.
 
@@ -42,4 +44,12 @@ The Greens and Libertarians are bad at tactics. What they do is capture dissatis
 
 There's a reason they almost exclusively harnass the energy of relatively privileged people. Not just white voters, but relatively affluent and educated white voters. We have (or at least feel we have) very little to lose in these contests. Protest voting might have no impact (or might even be counter-productive) but it makes the voter feel better, and there's no real downside. Likewise anyone who says "it'll have to get worse before it gets better." They don't often really think it'll get worse _for themselves_.
 
-There have been moments where new parties have had the potential to upend the two-party balance, the most recent being Perot's 1992 Reform Party ticket. Those are moments that shift the debate and can have a major impact. However, these moments tend to be fairly rare. This year doesn't look like one of those times.
+There have been moments where new parties have had the potential to upend the two-party balance, the most recent being Perot's 1992 Reform Party ticket. Those are moments that shift the debate and can have a major impact. However, these moments tend to be fairly rare. This year is not one of those times.
+
+
+## Further Reading:
+
+Additional links you may enjoy if you find this compelling.
+
+[Dan Savage on Jill Stein: Just No.](http://www.thestranger.com/slog/2016/07/19/24362128/dan-savage-on-jill-stein-just-no)
+[How Green is her Bullshit](http://www.thestranger.com/slog/2016/07/22/24376309/how-green-is-her-bullshit-an-uncharacteristically-brief-response-to-the-green-partys-spokespersons-dishonest-response-to-my-podcast-rant)

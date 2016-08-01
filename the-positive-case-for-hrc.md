@@ -6,7 +6,7 @@ I am not drawn to Hillary Clinton as a candidate. I didn't support her in 2008, 
 
 ### Her Hawkish Foreign Policy
 
-The most significant reservation I have about Hillary Clinton is [her hawkish military instincts](http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0). Beginning with her vote for the war in Iraq, proceeding through the way she campaigned in 2008, and continuing during her tenure as Secretary of State, she's exhibited a comfortability with unleashing violence, a belief in American hegemony, and a skepticism towards peacemaking and international cooperation. I'm not down with that.
+The most significant reservation I have about Hillary Clinton is [her hawkish military instincts](http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0). Beginning with her vote for the war in Iraq, through the way she campaigned in 2008, and during her tenure as Secretary of State, she's exhibited a comfortability with unleashing violence, an unexamined faith in American hegemony, and a skepticism towards peacemaking and international cooperation. I'm not down with that.
 
 Putting it in the harshest terms, her political legacy includes getting a lot of people killed, and she seems to see this as a selling point. She is proud to be buddies with Henry Kissinger for crying out loud. 
 
@@ -114,3 +114,9 @@ This is the kind of organization which could grow in strength through a period o
 Now, is it the most likely outcome of electing Hillary Clinton? No. But it's a lot more realistic than thinking we can blow it all up and start over, or that protest alone can deliver real change. It will take a lot of work and probably some luck, but ultimately we must realize that the positive potential democracy doesn't begin and end at the ballot box, and practice the art of controlling our environment.
 
 President Clinton will provide much better future conditions for improving the world than the alternative. On that basis, any progressive should be able to cast her or his vote for Hillary with a clean conscience. 
+
+## Further Reading:
+
+Additional links you may enjoy if you find this compelling.
+
+- [We want a political revolution. First we must defeat fascism.](https://medium.com/all-of-us/we-want-a-political-revolution-first-we-must-defeat-fascism-a9df032f87d6)
