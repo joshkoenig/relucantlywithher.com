@@ -107,7 +107,7 @@ The best case scenario for this fall is that not only does Clinton prevail, but 
 
 One of Clinton's more promising campaign promises is to introduce a consitutional amendment to overturn Citizens United. This is vital if we want to reduce the political influence of corporations and the hyper-wealthy, but passing a constitutional amendment requires a nationwide referrendum in which two 38 out of 50 states must ratify the change. That means we'll need a serious 50-state strategy once again.
 
-This kind of operation will not be driven by a President, or even by the Democratic party. It will have to be a broader people powered coalition, providing a golden opportunity for a "do over" on 2008: the ability to put a candidate over the top, and to continue organizing to keep that candidate (and others) motivated do fulfill her mandate, while also achieving wins at the state and local level.
+This kind of operation will not be driven by a President, or even by the Democratic party. It will have to be a broader people powered coalition, providing a golden opportunity for a "do over" on 2008: the ability to put a candidate over the top, and to continue organizing to keep that candidate (and others) motivated to fulfill her mandate, while also achieving wins at the state and local level.
 
 This is the kind of organization which could grow in strength through a period of political realignment, maturing into a meaningful and enduring vehicle for positive change.
 
