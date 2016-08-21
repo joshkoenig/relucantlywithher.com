@@ -1,5 +1,12 @@
 # Why Not To Vote Third Party
 
+## TL;DR
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ME: anyone but trump<br>GARY JOHNSON: I will outlaw schools.<br>JILL STEIN: Crystals are the only technology we need.<br>ME: ok hillary i guess</p>&mdash; drewtoothpaste (@drewtoothpaste) <a href="https://twitter.com/drewtoothpaste/status/764479599757631488">August 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+When you actually dig into these people, they aren't very credible. Also, given the rules of how democracy works it's not going to do anything.
+
 ## A Personal Story
 
 I cast my first presidential ballot in 2000 for Ralph Nader. It was ok. I lived in New York City, voting in an ultra-safe state. I believed that Al Gore and George W Bush were like [Kang and Kodos from the Simpsons](https://www.youtube.com/watch?v=4v7XXSt9XRM). When Bush won his case in the Supreme Court and became president my opinion was like, "whatever man, just another white-bread corporate overlord." 
@@ -8,21 +15,23 @@ The point is, I didn't feel even the slightest bit of remorse over my principled
 
 And then, 9/11.
 
-Maybe you saw that coming. I'm reluctant to use those attacks in political arguments — the way they've been abused as symbols in the following years is still deeply sickening to me. I'm also in no way suggesting that anything like that will happen again in the next four years. But it's part of the truth of my story.
+Maybe you saw that coming. I'm reluctant to use those attacks in political arguments — the way they were abused as symbols in the following years is still deeply sickening to me. It's a touchy subject.
 
-Elections have consequences, as I learned the hard way. If you were young at the time, you might not remember the details. Suffice to say, Bush and his whole squad took the moment and _ran with it_. We're still paying for that now, and will be for many years to come.
+I'm also in no way suggesting that anything like that will happen again in the next four years. I'm not trying to scaremonger. But this cronology of events is essential to the truth of my story.
+
+Elections have consequences, which I learned the hard way. If you were young at the time, you might not remember all the details. Suffice to say, Bush and his whole squad took the moment and _ran with it_. We're still paying for that now, and likely will continue to for years to come.
 
 For all I thought about Al Gore, in retrospect there's no way he would have whipped the US into invading Iraq in the aftermath. When I thought about it, I didn't regret my vote in New York (again, inconsequential). What I regretted with my 20/20 hindsight was not getting on a bus, going to Florida, and organizing. 
 
 I could probably have gotten 538 net new voters to the polls, I thought. There was a real act I could have taken that could have made a powerful difference. That's when I started paying more attention and getting more engaged in activism with a pragmatic perspective, something that's stuck with me ever since.
 
-What I learned is that politics matter in more specific and mundane ways than I really appreciated. Marginal differences actually have a huge impact when there's a lot of power behind them. I also learned that you're not just voting for a President - you're voting for an _administration_, for a way of doing things that even under normal/boring conditions will have ripple effect consequences.
+What I learned is that politics matter in more specific and mundane ways than I'd appreciated. Marginal differences have a huge impact when there's a lot of power behind them. I also learned that you're not just voting for a President - you're voting for an _administration_, for a way of doing things that even under normal/boring conditions will have ripple effect consequences, positive and negative. 
 
-So, that's why I'm not likely to ever vote for a third party candidate for any office who doesn't have a real shot of winning. I know that people we elect weild power, that almost none of them are perfect, and that even a small difference in temperment, outlook, and agenda will impact lives.
+So, that's why I'm not likely to ever vote for a third party candidate for any office where they don't have a real shot of winning. Protest voting doesn't actually do anything, and I know that people we elect weild power, that almost none of them are perfect, and that even a small difference in temperment, outlook, and agenda will impact lives.
 
 ## The Practical Problem With Third Parties
 
-There is currently no viable third party in the United States that can shift our politics at the national level. The Green and Libertarian Parties have no grassroots base of support: they are not effective at electing people to local or state government. They organize almost exclusively around running presidential candidates, and they tend to appeal exclusively to narrow demographic groups, even compared to the GOP.
+There is currently no viable third party in the United States that can shift our politics at the national level. The Green and Libertarian Parties have no popular base of support: they are not effective at electing people to local or state government. They organize almost exclusively around running presidential candidates, and they tend to appeal exclusively to narrow demographic groups, even compared to the GOP.
 
 As [Dan Savage so eloquently put it](http://www.thestranger.com/slog/2016/07/19/24362128/dan-savage-on-jill-stein-just-no), you don't start at the biggest election:
 
