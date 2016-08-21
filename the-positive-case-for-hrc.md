@@ -119,4 +119,5 @@ President Clinton will provide much better future conditions for improving the w
 
 Additional links you may enjoy if you find this compelling.
 
-- [We want a political revolution. First we must defeat fascism.](https://medium.com/all-of-us/we-want-a-political-revolution-first-we-must-defeat-fascism-a9df032f87d6)
+- [Why do people hate Hillary Clinton so much?](http://www.slate.com/articles/news_and_politics/cover_story/2016/07/the_people_who_hate_hillary_clinton_the_most.html), definitely worth reading for anyone (like me) who finds Secretary Clinton's style and tone to be offputting. Read to the end for the strongest parts.
+- [We want a political revolution. First we must defeat fascism.](https://medium.com/all-of-us/we-want-a-political-revolution-first-we-must-defeat-fascism-a9df032f87d6), the perspective of a hardcore Sanders supporter. Long but good.
