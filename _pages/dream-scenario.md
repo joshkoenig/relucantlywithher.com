@@ -6,7 +6,7 @@ post_date: 2016-09-07 03:48:54
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-reluctantly-with-her.pantheonsite.io/dream-scenario/
+  https://reluctantlywithher.com/dream-scenario/
 published: true
 ---
 ## A Dream Scenario: Overturning Citizens United

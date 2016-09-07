@@ -6,7 +6,7 @@ post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-reluctantly-with-her.pantheonsite.io/the-stakes-are-high/
+  https://reluctantlywithher.com/the-stakes-are-high/
 published: true
 ---
 ## This Is Not A Drill

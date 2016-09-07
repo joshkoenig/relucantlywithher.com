@@ -6,7 +6,7 @@ post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-reluctantly-with-her.pantheonsite.io/now-is-not-the-time-to-drop-out/
+  https://reluctantlywithher.com//now-is-not-the-time-to-drop-out/
 published: true
 ---
 This one is still a work in progress. I want to take the lessons of the Brexit vote, in particular how screwed younger voters were that they didn't show up in larger numbers. I believe this was in large part due to the fact that the Remain campaign (the analog to Clinton, vs Trump as the "Leave" faction) did a really poor job.

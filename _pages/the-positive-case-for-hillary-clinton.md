@@ -6,7 +6,7 @@ post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-reluctantly-with-her.pantheonsite.io/the-positive-case-for-hillary-clinton/
+  https://reluctantlywithher.com/the-positive-case-for-hillary-clinton/
 published: true
 ---
 ## How I Overcame My Reluctance To Voting Clinton

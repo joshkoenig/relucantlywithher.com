@@ -6,7 +6,7 @@ post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-reluctantly-with-her.pantheonsite.io/
+  https://reluctantlywithher.com/
 published: true
 ---
 Like you, I find the prospect of voting for Hillary Clinton somewhat depressing. [#ImReluctantlyWithHer][1]. She seems to be a poor communicator, often appears insincere or opportunistic, and I am opposed to many of her current and historical policy positions, particularly with regards to trade and foreign policy.

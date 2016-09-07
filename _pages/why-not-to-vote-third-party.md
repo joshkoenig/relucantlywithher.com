@@ -6,7 +6,7 @@ post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-reluctantly-with-her.pantheonsite.io/why-not-to-vote-third-party/
+  https://reluctantlywithher.com/why-not-to-vote-third-party/
 published: true
 ---
 ## TL;DR
