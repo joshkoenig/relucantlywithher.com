@@ -15,7 +15,7 @@ I have never felt drawn to Hillary Clinton as a candidate. I didn't support her 
 
 ### Reasons for Reluctance and How I Got Past Them
 
-#### Her Hawkish Foreign Policy
+##### Her Hawkish Foreign Policy
 
 The most significant reservation I have about Hillary Clinton is [her hawkish military instincts][1]. Beginning with her Senate vote for the war in Iraq, through the way she campaigned in 2008, and during her tenure as Secretary of State, she's exhibited a comfortability with unleashing violence, an unexamined faith in American hegemony, and a skepticism towards peacemaking and international cooperation. I'm not down with that.
 
@@ -25,7 +25,7 @@ However, politics is not about purity, and a vote is not a moral endorsement. Th
 
 Elections are our shared social processes for choosing, and when it comes to choosing a President probably the single most important aspect is how they'll command the military. I am not optimistic about her foreign policy, but given our choices in this election Hillary is clearly the person I prefer to be in charge for the next four years. It's not really a contest.
 
-#### Neoliberalistic on Trade & Economic Inequality
+##### Neoliberalistic on Trade & Economic Inequality
 
 This is the other huge policy issue I have with Clinton: she's a textbook neoliberal when it comes to trade and finance. She's championed every "free trade" deal that's come along (including the TPP until recently), and been an active participant the transformation which over the past 30-odd years has led to record inequality and the greatest economic crisis in generations.
 
@@ -37,7 +37,7 @@ In many ways she's not really all that different from Obama when it comes to the
 
 To close out on this point, I also feel a need to stick up for the general ideas of globalism and trade. While we've been doing a piss poor job of managing globalization, I also don't believe there's really a real way to "go back" on the process, nor would I want to. The future is not in national isolation; it's in figuring out a more broadly prosperous and humane way to integrate the world. We have to continue looking outward and engaging.
 
-#### A Pandering Career Politician
+##### A Pandering Career Politician
 
 It's natural and even laudable for a politician to change their position when new evidence comes to light, or if over the long haul they simply change their mind. However, many of Clinton's reversals over her career seem to be conspicuously associated with political expediency, as opposed to finding new information or having a legitimate change of heart.
 
@@ -47,7 +47,7 @@ When you say it like that, it's also kind of par for the course. While you don't
 
 My sense is that while she won't push the envelope for progress, she will go as far as she feels it's safe, and hold any ground that's gained. She's cautious. For instance, she was never a champion for marriage equality, but once there was some momentum there she was on board. Likewise, while she might be naturally inclined towards a hawkishly neoliberal outlook, she can be deterred by political reality.
 
-#### Bad at Campaigning
+##### Bad at Campaigning
 
 Hillary Clinton is by her own admission not a great campaigner. She's not a very good public speaker, which is hard not to notice compared to the incumbent Obama, or her primary opponent Bernie Sanders.
 
@@ -67,15 +67,15 @@ I framed this piece the way I did because I am trying to appeal to people who (l
 
 ### The Good Stuff
 
-#### Smash Patriarchy
+##### Smashing Patriarchy
 
 We should all honestly be excited about this campaign for the same national identity reasons we were excited about Obama. There's nothing wrong with feeling proud about voting for the first female president. It's one of the most simple and pure reasons to be positive and happy about this campaign. It's a real thing! Enjoy it!
 
-It will also be a huge fight. Clinton's candidacy is unleashing public debate about sexism and the role of women that could well be more fraught and toxic than the racism that surfaced through Obama's terms in office. The primaries really put the "micro" in "microaggresion." What we saw there pales in comparison to the vitriol this is drawing from the right. This is painful, and actually dangerous, but I believe it is positive to pull this venom to the surface so it can be directly and publicly rejected.
+It will also be a huge fight. Clinton's candidacy is unleashing public debate about sexism and the role of women that could well be more fraught and toxic than the racism that surfaced through Obama's terms in office. While the primaries really put the "micro" in "microaggresion," the vitriol this is drawing from the right this fall is all to real. This is painful, and actually dangerous, but I believe it is positive to pull this venom to the surface so it can be directly and publicly rejected.
 
 I have a young daughter (cliche alert) and I believe it will make a difference in how she understands the world if she grows up knowing that a woman leads this country. Maybe this matters to you, and even if not I'm sure you have sisters, wives, mothers, nieces, cousins, and friends for whom it will mean a lot. Embrace it.
 
-#### Pack the Court
+##### Packing the Court
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
@@ -91,7 +91,7 @@ President Clinton's legacy could be a progressive Supreme Court that lasts throu
 
 It's hard to understate how much of a difference this could make, especially considering that virtually any significant achievement in law over the next 30 years will almost certainly receive the same kind of scorched earth legal challenges as the Affordable Care Act did. Locking up the Supreme Court would be a generational-level win for progress.
 
-#### Someone We Can Push
+##### Someone We Can Push
 
 Realistically, the change we want to see won't come by electing a single person to a single office. Presidential elections are huge, sweeping events — the main event in US Politics — but we all know it takes a lot more than a President to make change happen. At a minimum, you have to have a Congress that will approve funds and legislate your agenda, and to get that you need a large ongoing effort by citizens to counteract the ever present influence of the status-quo and special interests.
 
@@ -101,7 +101,7 @@ Continued organization and activism during her term in office should be able to 
 
 Clearly we can't just elect her and expect her to take care of business, but the truth is that is never going to happen no matter who occupies the Oval Office, a mistake I think a lot of people made with Obama. Change takes a lot of people getting involved and staying involved (meaning they do so sustainably) not just to elect leaders, but to to create public momentum and leverage to pressure them to action once they're in office.
 
-#### She Knows How To Fight
+##### She Knows How To Fight
 
 Speaking of Obama, my biggest disappointment with him is that he squandered his own window of opportunity, the congressional majority during the first two years of his term. That was the time to unabashedly push his agenda, but instead he reached out for a grand bargain or compromise with the then-minority GOP.
 
