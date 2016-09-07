@@ -33,7 +33,7 @@ Now, I actually don't believe for a second that she's "owned" by the big banks, 
 
 However, when it comes to her specific economic proposals, they're actually pretty good, if a bit on the incremental side. She aims to raise the minimum wage, decrease student debt, end the shame of the US being the only industrialized country which doesn't mandate paid maternal leave. These are inarguably decent things to do, and they'd be real achievements if she can get them past congress.
 
-In many ways she's not really all that different from Obama when it comes to the economy. While her instincts lean towards continuing the continued empowerment of a global elite (to which her family has ascended), she's also demonstrated herself as being responsive to political pressure on economic policy. Her positions have grown in stature and scope as a result of the primary process. Continued pressure may yeild continued improvements.
+In many ways she's not really all that different from Obama when it comes to the economy. While her instincts lean towards continuing the continued empowerment of a global elite (to which her family has ascended), she's also demonstrated herself as being responsive to political pressure on economic policy. Her positions have grown in stature and scope as a result of the primary process. Continued pressure may yield continued improvements.
 
 To close out on this point, I also feel a need to stick up for the general ideas of globalism and trade. While we've been doing a piss poor job of managing globalization, I also don't believe there's really a real way to "go back" on the process, nor would I want to. The future is not in national isolation; it's in figuring out a more broadly prosperous and humane way to integrate the world. We have to continue looking outward and engaging.
 
@@ -97,13 +97,13 @@ Realistically, the change we want to see won't come by electing a single person 
 
 While Clinton is a status-quo candidate herself, as I've mentioned above she is responsive to political pressure, including pressure from the left. This means that for anyone on board with the long-term effort to make the country (and the world) a better place, her election represents an opportunity.
 
-Continued orginization and activism during her term in office should be able to get better policies enacted. Moreover, a Clinton presidency would be an chance to "move the Overton window," shifting the bounds of what's seen as thinkable or doable by establishment types, another generational victory.
+Continued organization and activism during her term in office should be able to get better policies enacted. Moreover, a Clinton presidency would be an chance to "move the Overton window," shifting the bounds of what's seen as thinkable or doable by establishment types, another generational victory.
 
 Clearly we can't just elect her and expect her to take care of business, but the truth is that is never going to happen no matter who occupies the oval office, a mistake I think a lot of people made with Obama. Change takes a lot of people getting involved and staying involved (meaning they do so sustainably) not just to elect leaders, but to to create public momentum and leverage to pressure them to action once they're in office.
 
 #### She Knows How To Fight
 
-Speaking of Obama, my biggest disappointment with him is that he squandered his own window of opportunity, the congressional majority during the first two years of his term. That was the time to unabashedly push his agenda, but instead he reached out for a grand bargan or compromise with the then-minority GOP.
+Speaking of Obama, my biggest disappointment with him is that he squandered his own window of opportunity, the congressional majority during the first two years of his term. That was the time to unabashedly push his agenda, but instead he reached out for a grand bargain or compromise with the then-minority GOP.
 
 That didn't go well, and he was subsequently burned multiple times trying to "negotiate" with GOP Congressional and Senate leaders who were pretty clearly acting in bad faith. It wasn't really until he was into his second term that Obama stopped looking for a fantasy bi-partisan consensus, but by then it was far too late.
 
