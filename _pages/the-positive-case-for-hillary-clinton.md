@@ -97,7 +97,7 @@ Realistically, the change we want to see won't come by electing a single person 
 
 While Clinton is a status quo candidate herself, as I've mentioned above she is responsive to political pressure, including pressure from the left. This means that for anyone on board with the long-term effort to make the country (and the world) a better place, her election represents an opportunity.
 
-Continued organization and activism during her term in office should be able to get better policies enacted. Moreover, a Clinton presidency would be an chance to "move the Overton window," shifting the bounds of what's seen as thinkable or doable by establishment types, another generational victory.
+Continued organization and activism during her term in office should be able to get better policies enacted. Moreover, a Clinton presidency would be an chance to "move the [Overton window][3]," shifting the bounds of what's seen as thinkable or doable by establishment types, another generational victory.
 
 Clearly we can't just elect her and expect her to take care of business, but the truth is that is never going to happen no matter who occupies the Oval Office, a mistake I think a lot of people made with Obama. Change takes a lot of people getting involved and staying involved (meaning they do so sustainably) not just to elect leaders, but to to create public momentum and leverage to pressure them to action once they're in office.
 
@@ -109,17 +109,18 @@ That didn't go well, and he was subsequently burned multiple times trying to "ne
 
 Hillary Clinton has lived with the GOP attempting to destroy her for a quarter century. She has no illusions about who her opposition will be and how they operate. If she wins, they will throw the kitchen sink at her, and she'll be as ready as anyone could reasonably be.
 
-*But that's not all!* Why not shoot for the moon with my [Dream Scenario][3]
+*But that's not all!* Why not shoot for the moon with my [Dream Scenario][4]
 
 ## Further Reading:
 
 Additional links you may enjoy if you find this compelling.
 
-*   [Why do people hate Hillary Clinton so much?][4], definitely worth reading for anyone (like me) who finds Secretary Clinton's style and tone to be off-putting. Read to the end for the strongest parts.
-*   [We want a political revolution. First we must defeat fascism.][5], the perspective of a hardcore Sanders supporter. Long, but good.
+*   [Why do people hate Hillary Clinton so much?][5], definitely worth reading for anyone (like me) who finds Secretary Clinton's style and tone to be off-putting. Read to the end for the strongest parts.
+*   [We want a political revolution. First we must defeat fascism.][6], the perspective of a hardcore Sanders supporter. Long, but good.
 
  [1]: http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0
  [2]: https://www.youtube.com/watch?v=xpTSYFf2YRQ
- [3]: /dream-scenario/
- [4]: http://www.slate.com/articles/news_and_politics/cover_story/2016/07/the_people_who_hate_hillary_clinton_the_most.html
- [5]: https://medium.com/all-of-us/we-want-a-political-revolution-first-we-must-defeat-fascism-a9df032f87d6
+ [3]: http://bigthink.com/daylight-atheism/moving-the-overton-window
+ [4]: /dream-scenario/
+ [5]: http://www.slate.com/articles/news_and_politics/cover_story/2016/07/the_people_who_hate_hillary_clinton_the_most.html
+ [6]: https://medium.com/all-of-us/we-want-a-political-revolution-first-we-must-defeat-fascism-a9df032f87d6
