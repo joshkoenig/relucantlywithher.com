@@ -6,11 +6,9 @@ post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-reluctantly-with-her.pantheonsite.io/im-reluctantly-with-her/
+  http://dev-reluctantly-with-her.pantheonsite.io/
 published: true
 ---
-# Hillary Clinton Is "Meh" But I'm Voting for Her Anyway
-
 Like you, I find the prospect of voting for Hillary Clinton somewhat depressing. [#ImReluctantlyWithHer][1]. She seems to be a poor communicator, often appears insincere or opportunistic, and I am opposed to many of her current and historical policy positions, particularly with regards to trade and foreign policy.
 
 I've been further discouraged by the elitist and sometimes condescending tone of her campaign throughout the primaries, and by the tendency for some of her supporters and surrogates to ascribe any reservation about her candidacy to sexism or GOP propaganda. All of this combines to leave me feeling pretty "meh" about the prospect of giving her my vote.
