@@ -19,19 +19,19 @@ published: true
   <a href="https://twitter.com/drewtoothpaste/status/764479599757631488">August 13, 2016</a>
 </blockquote>
 
-When you actually dig in on these people, they aren't very credible. Also, given the rules of how democracy works it's not going to do anything. Don't make the same mistake I did in 2000.
+When you actually dig in on these people, they aren't very credible. Also, given the rules of how democracy works, it's not going to do anything. Don't make the same mistake I did in 2000.
 
 ## A Personal Story
 
 I cast my first presidential ballot in 2000 for Ralph Nader. It was ok. I lived in New York City, voting in an ultra-safe state. I believed that Al Gore and George W Bush were like [Kang and Kodos from the Simpsons][1]. When Bush won his case in the Supreme Court and became president my opinion was like, "whatever man, just another white-bread corporate overlord."
 
-The point is, I didn't feel even the slightest bit of remorse over my principled vote for my conscience. For what its worth I also didn't see any signs that the Democratic party was about to listen to the Nader voters and start tracking to the left, but again, whatever. After the election I went back to living my life as a college student at NYU.
+The point is, I didn't feel even the slightest bit of remorse over my principled vote for my conscience. For what it's worth, I also didn't see any signs that the Democratic party was about to listen to the Nader voters and start tracking to the left, but again, whatever. After the election, I went back to living my life as a college student at NYU.
 
 And then, 9/11. Maybe you saw that coming. I didn't.
 
 Disclaimer: I'm reluctant to use the terrorist attacks in political arguments — the way they were abused as symbols in the following years is still deeply sickening to me. It's a touchy subject.
 
-I want to be clear that I'm in no way suggesting that anything like that will happen again in the next four years. I'm not trying to scaremonger on anyone. But this cronology of events is essential to the truth of my story.
+I want to be clear that I'm in no way suggesting that anything like that will happen again in the next four years. I'm not trying to scaremonger on anyone. But this chronology of events is essential to the truth of my story.
 
 Elections have consequences, which I learned the hard way. If you were young at the time, you might not remember all the details. Suffice to say, Bush and his whole squad took the moment and *ran with it*. We're still paying for that now, and likely will continue to do so for years to come.
 
@@ -41,7 +41,7 @@ I could probably have gotten 538 net new voters to the polls. There was a real a
 
 What I learned is that politics matter in more specific and mundane ways than I'd appreciated. Marginal differences have a huge impact when there's a lot of power behind them. I also learned that you're not just voting for a President - you're voting for an *administration*, for a whole squad of players, and a way of doing things that even under normal conditions will have ripple effects far beyond what the individual at the top does or doesn't do.
 
-So, that's why I'm not likely to ever vote for a third party candidate for any office where they don't have a real shot of winning. Protest voting doesn't actually do anything, and I know that none of the people we elect weild power are perfect, and that even a small difference in temperment, outlook, and agenda will impact lives.
+So, that's why I'm not likely to ever vote for a third party candidate for any office where they don't have a real shot of winning. Protest voting doesn't actually do anything, and I know that none of the people we elect are perfect, and that even a small difference in temperament, outlook, and agenda will impact lives.
 
 ## The Practical Problem With Third Parties
 
@@ -55,7 +55,7 @@ He also makes a good point about whose interests are on the line in most electio
 
 > And the people who’ll suffer are not going to be the pasty white Green Party supporters — pasty white Jill Stein and her pasty white supporters. The people who’ll suffer are going to be people of color. People of minority faiths. Queer people. Women. Don’t do it. Don't throw your vote away on Jill Stein/vote for, bankshot-style, Donald Trump. The Greens and Libertarians are bad at tactics. What they do is capture dissatisfaction with the status quo and offer citizens the opportunity to cast a "protest vote." What this accomplishes is anyone's guess; there's no historical example or credible theory I know of that ties protest voting to actual change, though there are examples of opposition actively funding and encouraging protest voting to increase the chances of the third party playing spoiler.
 
-There's a reason they almost exclusively harnass the energy of relatively privileged people. Not just white voters, but relatively affluent and educated white voters. We have (or at least feel we have) very little personally at stake these contests. Protest voting might have no impact (or might even be counter-productive) but it makes the voter feel better, and there's no real personal downside.
+There's a reason they almost exclusively harness the energy of relatively privileged people. Not just white voters, but relatively affluent and educated white voters. We have (or at least feel we have) very little personally at stake these contests. Protest voting might have no impact (or might even be counter-productive) but it makes the voter feel better, and there's no real personal downside.
 
 Likewise anyone who says "it'll have to get worse before it gets better." They don't often really think it'll get worse *for themselves*. If that describes anyone you know, try to do what you can to get them to think bigger.
 
