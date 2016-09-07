@@ -9,8 +9,6 @@ permalink: >
   http://dev-reluctantly-with-her.pantheonsite.io/why-not-to-vote-third-party/
 published: true
 ---
-# Why Not To Vote Third Party
-
 ## TL;DR
 
 <blockquote class="twitter-tweet">
@@ -51,11 +49,11 @@ There is currently no viable third party in the United States that can shift our
 
 As [Dan Savage so eloquently put it][2], you don't start at the biggest election:
 
-> If you're interested in building a third party, a viable third party, you don’t start with president. You don't start by running someone for fucking president. Where are the Green Party candidates for city councils? For county councils? For state legislatures? For state assessor? For state insurance commissioner? For governor? For fucking dogcatcher? I would be SO willing to vote for Green Party candidates who are starting at the bottom, grassroots, bottom up, building a third party, a viable third party. 
+> If you're interested in building a third party, a viable third party, you don’t start with president. You don't start by running someone for fucking president. Where are the Green Party candidates for city councils? For county councils? For state legislatures? For state assessor? For state insurance commissioner? For governor? For fucking dogcatcher? I would be SO willing to vote for Green Party candidates who are starting at the bottom, grassroots, bottom up, building a third party, a viable third party.
+
 He also makes a good point about whose interests are on the line in most elections:
 
-> And the people who’ll suffer are not going to be the pasty white Green Party supporters — pasty white Jill Stein and her pasty white supporters. The people who’ll suffer are going to be people of color. People of minority faiths. Queer people. Women. Don’t do it. Don't throw your vote away on Jill Stein/vote for, bankshot-style, Donald Trump. 
-The Greens and Libertarians are bad at tactics. What they do is capture dissatisfaction with the status quo and offer citizens the opportunity to cast a "protest vote." What this accomplishes is anyone's guess; there's no historical example or credible theory I know of that ties protest voting to actual change, though there are examples of opposition actively funding and encouraging protest voting to increase the chances of the third party playing spoiler.
+> And the people who’ll suffer are not going to be the pasty white Green Party supporters — pasty white Jill Stein and her pasty white supporters. The people who’ll suffer are going to be people of color. People of minority faiths. Queer people. Women. Don’t do it. Don't throw your vote away on Jill Stein/vote for, bankshot-style, Donald Trump. The Greens and Libertarians are bad at tactics. What they do is capture dissatisfaction with the status quo and offer citizens the opportunity to cast a "protest vote." What this accomplishes is anyone's guess; there's no historical example or credible theory I know of that ties protest voting to actual change, though there are examples of opposition actively funding and encouraging protest voting to increase the chances of the third party playing spoiler.
 
 There's a reason they almost exclusively harnass the energy of relatively privileged people. Not just white voters, but relatively affluent and educated white voters. We have (or at least feel we have) very little personally at stake these contests. Protest voting might have no impact (or might even be counter-productive) but it makes the voter feel better, and there's no real personal downside.
 
