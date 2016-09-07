@@ -73,7 +73,7 @@ We should all honestly be excited about this campaign for the same national iden
 
 It will also be a huge fight. Clinton's candidacy is unleashing public debate about sexism and the role of women that could well be more fraught and toxic than the racism that surfaced through Obama's terms in office. The primaries really put the "micro" in "microaggresion." What we saw there pales in comparison to the vitriol this is drawing from the right. This is painful, and actually dangerous, but I believe it is positive to pull this venom to the surface so it can be directly and publicly rejected.
 
-I have a young daughter (cliche alert) and I believe it will make a difference in how she understands the world if she grows up knowing that a woman leads this country. Maybe this matters to you, and even if not I'm sure you have sisters, neices, cousins, and friends for whom it will mean a lot. Embrace it.
+I have a young daughter (cliche alert) and I believe it will make a difference in how she understands the world if she grows up knowing that a woman leads this country. Maybe this matters to you, and even if not I'm sure you have sisters, nieces, cousins, and friends for whom it will mean a lot. Embrace it.
 
 #### Pack the Court
 
