@@ -28,4 +28,7 @@ The case I make may or may not resonate with you, but if it does, I urge you to 
 
 If we believe our politics matter and that elections have consequences — and if you're reading this and I wrote this, I think we can assume we do — we must remember that voting is not the ultimate political act in a democracy. Politics is the art of controlling your environment, so participate fully! If we care about the outcome this cycle and beyond, voting is the least we can do.
 
+Let's get started. Read my [positive case for Hillary Clinton][2]
+
  [1]: https://twitter.com/search?f=tweets&vertical=default&q=%23imreluctantlywithher&src=typd
+ [2]: /the-positive-case-for-hillary-clinton/
