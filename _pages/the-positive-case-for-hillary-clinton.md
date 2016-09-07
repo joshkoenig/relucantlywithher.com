@@ -1,12 +1,14 @@
 ---
+ID: 12
 post_title: The Positive Case For Hillary Clinton
 author: Josh Koenig
-post_date: 2016-08-28 21:17:29
+post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
+permalink: >
+  http://dev-reluctantly-with-her.pantheonsite.io/the-positive-case-for-hillary-clinton/
 published: true
 ---
-
 # How I Overcame My Reluctance To Voting Clinton
 
 I have never felt drawn to Hillary Clinton as a candidate. I didn't support her in 2008, and I didn't cast my primary vote for her this year either. However, I've overcome my reservations about her and will be voting for her in November. In this short essay, I'll explain my thinking, starting with how I found peace with my negative feelings, and then some reasons to be optimistic about President Clinton.
@@ -23,7 +25,7 @@ However, politics is not about purity, and a vote is not a moral endorsement. Th
 
 Elections are our shared social processes for choosing, and when it comes to choosing a President probably the single most important aspect is how they'll command the military. I am not optimistic about her foreign policy, but given our choices in this election Hillary is clearly the person I prefer to be in charge for the next four years. It's not really a contest.
 
-### Neoliberalistic on Trade & Economic Inequality
+### Neoliberalistic on Trade &amp; Economic Inequality
 
 This is the other huge policy issue I have with Clinton: she's a textbook neoliberal when it comes to trade and finance. She's championed every "free trade" deal that's come along (including the TPP until recently), and been an active participant the transformation which over the past 30-odd years has led to record inequality and the greatest economic crisis in generations.
 
@@ -75,8 +77,8 @@ I have a young daughter (cliche alert) and I believe it will make a difference i
 
 ### Pack the Court
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I don&#39;t know about you, but I&#39;m voting for a three decade liberal majority on the Supreme Court this November.</p>&mdash; Franklin Leonard (@franklinleonard) <a href="https://twitter.com/franklinleonard/status/757316241472172032">July 24, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don&#039;t know about you, but I&#039;m voting for a three decade liberal majority on the Supreme Court this November.</p>&mdash; Franklin Leonard (@franklinleonard) <a href="https://twitter.com/franklinleonard/status/757316241472172032">July 24, 2016</a></blockquote>
+
 
 If you are any kind of political nerd, you know the next four years will be hugely consequential for the Supreme Court. There's one vacancy to replace arch-conservative Antonin Scalia, and likely openings from liberal icon Ruth "The Notorious RBG" Bader Ginsburg and possibly "swing vote" Anthony Kennedy, both of whom are over 80 years old. There are also rumors on the internets that Clarance Thomas would like to retire on the early side.
 

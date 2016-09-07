@@ -1,9 +1,12 @@
 ---
+ID: 7
 post_title: Now Is Not The Time To Drop Out
 author: Josh Koenig
-post_date: 2016-08-28 21:17:29
+post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
+permalink: >
+  http://dev-reluctantly-with-her.pantheonsite.io/now-is-not-the-time-to-drop-out/
 published: true
 ---
 # Now Is Not The Time To Drop Out

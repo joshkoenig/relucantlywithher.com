@@ -1,18 +1,20 @@
 ---
+ID: 16
 post_title: Why Not To Vote Third Party
 author: Josh Koenig
-post_date: 2016-08-28 21:17:29
+post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
+permalink: >
+  http://dev-reluctantly-with-her.pantheonsite.io/why-not-to-vote-third-party/
 published: true
 ---
-
 # Why Not To Vote Third Party
 
 ## TL;DR
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ME: anyone but trump<br>GARY JOHNSON: I will outlaw schools.<br>JILL STEIN: Crystals are the only technology we need.<br>ME: ok hillary i guess</p>&mdash; drewtoothpaste (@drewtoothpaste) <a href="https://twitter.com/drewtoothpaste/status/764479599757631488">August 13, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ME: anyone but trump<br>GARY JOHNSON: I will outlaw schools.<br>JILL STEIN: Crystals are the only technology we need.<br>ME: ok hillary i guess</p>&mdash; drewtoothpaste (@drewtoothpaste) <a href="https://twitter.com/drewtoothpaste/status/764479599757631488">August 13, 2016</a></blockquote>
+
 
 When you actually dig in on these people, they aren't very credible. Also, given the rules of how democracy works it's not going to do anything. Don't make the same mistake I did in 2000.
 

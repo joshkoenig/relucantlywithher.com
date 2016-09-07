@@ -1,15 +1,17 @@
 ---
-post_title: I'm Reluctantly With Her
+ID: 9
+post_title: 'I&#8217;m Reluctantly With Her'
 author: Josh Koenig
-post_date: 2016-08-28 21:17:29
+post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
+permalink: >
+  http://dev-reluctantly-with-her.pantheonsite.io/im-reluctantly-with-her/
 published: true
 ---
-
 # Hillary Clinton Is "Meh" But I'm Voting for Her Anyway
 
-Like you, I find the prospect of voting for Hillary Clinton somewhat depressing. [#ImReluctantlyWithHer](https://twitter.com/search?f=tweets&vertical=default&q=%23imreluctantlywithher&src=typd). She seems to be a poor communicator, often appears insincere or opportunistic, and I am opposed to many of her current and historical policy positions, particularly with regards to trade and foreign policy. 
+Like you, I find the prospect of voting for Hillary Clinton somewhat depressing. [#ImReluctantlyWithHer](https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23imreluctantlywithher&amp;src=typd). She seems to be a poor communicator, often appears insincere or opportunistic, and I am opposed to many of her current and historical policy positions, particularly with regards to trade and foreign policy. 
 
 I've been further discouraged by the elitist and sometimes condescending tone of her campaign throughout the primaries, and by the tendency for some of her supporters and surrogates to ascribe any reservation about her candidacy to sexism or GOP propaganda. All of this combines to leave me feeling pretty "meh" about the prospect of giving her my vote.
 
@@ -27,5 +29,4 @@ Last but not least I will remind everyone what's at stake in this election, in t
 
 The case I make may or may not resonate with you, but if it does, I urge you to actually do more than vote. Trudging to the polls to cast a reluctant vote is no way to live a political life. There's plenty to be inspired about or by, and plenty of reasons to actively encourage or organize your friends, family, neighbors and co-workers to engage as well. 
 
-If we believe our politics matter and that elections have consequences — and if you're reading this and I wrote this, I think we can assume we do — we must remember that voting is not the ultimate political act in a democracy. Politics is the art of controlling your environment, so participate fully! If we care about the outcome this cycle and beyond, voting is the least we can do. 
-
+If we believe our politics matter and that elections have consequences — and if you're reading this and I wrote this, I think we can assume we do — we must remember that voting is not the ultimate political act in a democracy. Politics is the art of controlling your environment, so participate fully! If we care about the outcome this cycle and beyond, voting is the least we can do.

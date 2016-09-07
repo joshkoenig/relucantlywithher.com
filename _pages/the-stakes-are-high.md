@@ -1,12 +1,14 @@
 ---
+ID: 14
 post_title: The Stakes Are High
 author: Josh Koenig
-post_date: 2016-08-28 21:17:29
+post_date: 2016-09-07 03:14:13
 post_excerpt: ""
 layout: page
+permalink: >
+  http://dev-reluctantly-with-her.pantheonsite.io/the-stakes-are-high/
 published: true
 ---
-
 # The Stakes Are High
 
 ## This Is Not A Drill
@@ -54,4 +56,4 @@ I don't really think that Trump would do anything stupid with the nuclear codes,
 - Some kind of large terror event.
 - ...
 
-It's hard not to see Trump as a narcicistic brute, and hard not to imagine him doing everything in his power to expand and maintain his power. He'll have a lot of tools at his disposal, and it's naive to assume he won't figure out how to use at least a few of them. If he's got some deviously competent staffers/advisors and a little luck, it could be pretty bad indeed. 
+It's hard not to see Trump as a narcicistic brute, and hard not to imagine him doing everything in his power to expand and maintain his power. He'll have a lot of tools at his disposal, and it's naive to assume he won't figure out how to use at least a few of them. If he's got some deviously competent staffers/advisors and a little luck, it could be pretty bad indeed.
