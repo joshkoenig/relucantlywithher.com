@@ -29,9 +29,9 @@ Elections are our shared social processes for choosing, and when it comes to cho
 
 This is the other huge policy issue I have with Clinton: she's a textbook neoliberal when it comes to trade and finance. She's championed every "free trade" deal that's come along (including the TPP until recently), and been an active participant the transformation which over the past 30-odd years has led to record inequality and the greatest economic crisis in generations.
 
-Now, I actually don't believe for a second that she's "owned" by the big banks, or is anyone's puppet. But I do believe that she's ideologically aligned with these people, largely sharing their worldview. This is why she can pull down big paychecks speaking to Wall Street firms. It's not a stretch for her to go into that kind of venue and give a great motivational pep talk. Basically she sees them as her peers.
+Now, I actually don't believe for a second that she's "owned" by the big banks, or is anyone's puppet. But I do believe that she's ideologically aligned with these people, largely sharing their worldview. This is why she can pull down big paychecks speaking to Wall Street firms. It's not a stretch for her to go into that kind of venue and give a great motivational pep talk. Basically, she sees them as her peers.
 
-However, when it comes to her specific economic proposals, they're actually pretty good, if a bit on the incremental side. She aims to raise the minimum wage, decrease student debt, end the shame of the US being the only industrialized country which doesn't mandate paid maternal leave. These are inarguably decent things to do, and they'd be real achievements if she can get them past congress.
+However, when it comes to her specific economic proposals, they're actually pretty good, if a bit on the incremental side. She aims to raise the minimum wage, decrease student debt, and end the shame of the US being the only industrialized country which doesn't mandate paid maternal leave. These are inarguably decent things to do, and they'd be real achievements if she can get them past Congress.
 
 In many ways she's not really all that different from Obama when it comes to the economy. While her instincts lean towards continuing the continued empowerment of a global elite (to which her family has ascended), she's also demonstrated herself as being responsive to political pressure on economic policy. Her positions have grown in stature and scope as a result of the primary process. Continued pressure may yield continued improvements.
 
@@ -43,7 +43,7 @@ It's natural and even laudable for a politician to change their position when ne
 
 This is frustrating, because it doesn't give one much of a sense of what she truly believes. However, as I alluded to above, this is also something of an opportunity. It demonstrates that Clinton is sensitive to political pressure and popular opinion around the issues.
 
-When you say it like that, it's also kind of par for the course. While you don't want a leader whose whole agenda is poll-driven, being responsive to public sentiment is a de-facto part of the job.
+When you say it like that, it's also kind of par for the course. While you don't want a leader whose whole agenda is poll-driven, being responsive to public sentiment is a de facto part of the job.
 
 My sense is that while she won't push the envelope for progress, she will go as far as she feels it's safe, and hold any ground that's gained. She's cautious. For instance, she was never a champion for marriage equality, but once there was some momentum there she was on board. Likewise, while she might be naturally inclined towards a hawkishly neoliberal outlook, she can be deterred by political reality.
 
@@ -51,11 +51,11 @@ My sense is that while she won't push the envelope for progress, she will go as 
 
 Hillary Clinton is by her own admission not a great campaigner. She's not a very good public speaker, which is hard not to notice compared to the incumbent Obama, or her primary opponent Bernie Sanders.
 
-A stark example of weakness was during the primary debates whenever they got to [the closing remarks][2]. Sanders would give a rehearsed but personable homily, starting with his growing up poor, pivoting to the issue of inequality, and finally expressing the mission of his campaign with eloquent human language. In response, Clinton would basically run through a checklist that often came out as word salad. To me it was always kinda cringy, and the different audience responses seem to suggest I'm not the only one who felt that way.
+A stark example of weakness was during the primary debates whenever they got to [the closing remarks][2]. Sanders would give a rehearsed but personable homily, starting with his growing up poor, pivoting to the issue of inequality, and finally expressing the mission of his campaign with eloquent human language. In response, Clinton would basically run through a checklist that often came out as word salad. To me, it was always kinda cringy, and the different audience responses seem to suggest I'm not the only one who felt that way.
 
 As someone who spent their early career practicing law, and their mid-life to late adulthood under harsh and adversarial scrutiny, Hillary Clinton is highly guarded and deliberate in what she says. She's risk-averse. She sticks to the script. The script is written from within her campaign's bubble and sometimes isn't super great.
 
-Similar to her shifting positions, I think this is actually about average for politicians. Her oratory pales by comparison to the current president, but if you compare her to many other recent candidates for president, her stiff scripted delivery is pretty much the norm. It's more annoying than a reason to oppose her, but I list it here because if I'm being honest, it contributes to my sense of depression. Ideally I want a candidate who inspires me, which she has so far failed to do.
+Similar to her shifting positions, I think this is actually about average for politicians. Her oratory pales by comparison to the current president, but if you compare her to many other recent candidates for president, her stiff scripted delivery is pretty much the norm. It's more annoying than a reason to oppose her, but I list it here because if I'm being honest, it contributes to my sense of depression. Ideally, I want a candidate who inspires me, which she has so far failed to do.
 
 That said, I do think that we're not used to seeing this relatively common combination of traits — some opportunistic shifts in position, a talking-points communication style — show up in female form, which might explain some of why this sticks out so much. This is "typical politician" stuff, which isn't super awesome, but feels like it should be possible to get past.
 
@@ -73,7 +73,7 @@ We should all honestly be excited about this campaign for the same national iden
 
 It will also be a huge fight. Clinton's candidacy is unleashing public debate about sexism and the role of women that could well be more fraught and toxic than the racism that surfaced through Obama's terms in office. The primaries really put the "micro" in "microaggresion." What we saw there pales in comparison to the vitriol this is drawing from the right. This is painful, and actually dangerous, but I believe it is positive to pull this venom to the surface so it can be directly and publicly rejected.
 
-I have a young daughter (cliche alert) and I believe it will make a difference in how she understands the world if she grows up knowing that a woman leads this country. Maybe this matters to you, and even if not I'm sure you have sisters, nieces, cousins, and friends for whom it will mean a lot. Embrace it.
+I have a young daughter (cliche alert) and I believe it will make a difference in how she understands the world if she grows up knowing that a woman leads this country. Maybe this matters to you, and even if not I'm sure you have sisters, wives, mothers, nieces, cousins, and friends for whom it will mean a lot. Embrace it.
 
 #### Pack the Court
 
@@ -89,17 +89,17 @@ If you are any kind of political nerd, you know the next four years will be huge
 
 President Clinton's legacy could be a progressive Supreme Court that lasts through the next several administrations. From a brass tacks policy standpoint, this is the single biggest win on the table. A Clinton court would have positive implications for a wide array of issues, both in terms of allowing a progressive agenda to proceed, and also acting as a backstop when eventually the pendulum swings back the other way.
 
-It's hard to understate how much of a difference this could make, especially considering that virtually any significant achievement in law over the next 30 years will almost certainly recieve the same kind of scorched earth legal challenges as the Affordable Care Act did. Locking up the Supreme Court would be a generational-level win for progress.
+It's hard to understate how much of a difference this could make, especially considering that virtually any significant achievement in law over the next 30 years will almost certainly receive the same kind of scorched earth legal challenges as the Affordable Care Act did. Locking up the Supreme Court would be a generational-level win for progress.
 
 #### Someone We Can Push
 
-Realistically, the change we want to see won't come by electing a single person to a single office. Presidential elections are huge, sweeping events — the main event in US Politics — but we all know it takes a lot more than a President to make change happen. At a minimum you have to have a Congress that will approve funds and legislate your agenda, and to get that you need a large ongoing effort by citizens to counteract the ever present influence of the status-quo and special interests.
+Realistically, the change we want to see won't come by electing a single person to a single office. Presidential elections are huge, sweeping events — the main event in US Politics — but we all know it takes a lot more than a President to make change happen. At a minimum, you have to have a Congress that will approve funds and legislate your agenda, and to get that you need a large ongoing effort by citizens to counteract the ever present influence of the status-quo and special interests.
 
-While Clinton is a status-quo candidate herself, as I've mentioned above she is responsive to political pressure, including pressure from the left. This means that for anyone on board with the long-term effort to make the country (and the world) a better place, her election represents an opportunity.
+While Clinton is a status quo candidate herself, as I've mentioned above she is responsive to political pressure, including pressure from the left. This means that for anyone on board with the long-term effort to make the country (and the world) a better place, her election represents an opportunity.
 
 Continued organization and activism during her term in office should be able to get better policies enacted. Moreover, a Clinton presidency would be an chance to "move the Overton window," shifting the bounds of what's seen as thinkable or doable by establishment types, another generational victory.
 
-Clearly we can't just elect her and expect her to take care of business, but the truth is that is never going to happen no matter who occupies the oval office, a mistake I think a lot of people made with Obama. Change takes a lot of people getting involved and staying involved (meaning they do so sustainably) not just to elect leaders, but to to create public momentum and leverage to pressure them to action once they're in office.
+Clearly we can't just elect her and expect her to take care of business, but the truth is that is never going to happen no matter who occupies the Oval Office, a mistake I think a lot of people made with Obama. Change takes a lot of people getting involved and staying involved (meaning they do so sustainably) not just to elect leaders, but to to create public momentum and leverage to pressure them to action once they're in office.
 
 #### She Knows How To Fight
 
@@ -107,14 +107,14 @@ Speaking of Obama, my biggest disappointment with him is that he squandered his 
 
 That didn't go well, and he was subsequently burned multiple times trying to "negotiate" with GOP Congressional and Senate leaders who were pretty clearly acting in bad faith. It wasn't really until he was into his second term that Obama stopped looking for a fantasy bi-partisan consensus, but by then it was far too late.
 
-Hillary Clinton has lived with the GOP attempting to destroy her for a quarter century. She has no illusions about who her opposition will be and how they operate. If she wins they will throw the kitchen sink at her, and she'll be as ready as anyone could reasonably be.
+Hillary Clinton has lived with the GOP attempting to destroy her for a quarter century. She has no illusions about who her opposition will be and how they operate. If she wins, they will throw the kitchen sink at her, and she'll be as ready as anyone could reasonably be.
 
 ## Further Reading:
 
 Additional links you may enjoy if you find this compelling.
 
-*   [Why do people hate Hillary Clinton so much?][3], definitely worth reading for anyone (like me) who finds Secretary Clinton's style and tone to be offputting. Read to the end for the strongest parts.
-*   [We want a political revolution. First we must defeat fascism.][4], the perspective of a hardcore Sanders supporter. Long but good.
+*   [Why do people hate Hillary Clinton so much?][3], definitely worth reading for anyone (like me) who finds Secretary Clinton's style and tone to be off-putting. Read to the end for the strongest parts.
+*   [We want a political revolution. First we must defeat fascism.][4], the perspective of a hardcore Sanders supporter. Long, but good.
 
  [1]: http://www.nytimes.com/2016/04/24/magazine/how-hillary-clinton-became-a-hawk.html?_r=0
  [2]: https://www.youtube.com/watch?v=xpTSYFf2YRQ
