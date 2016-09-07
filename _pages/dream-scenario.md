@@ -9,7 +9,7 @@ permalink: >
   https://reluctantlywithher.com/dream-scenario/
 published: true
 ---
-## A Dream Scenario: Overturning Citizens United
+## Overturning Citizens United With A National Wave
 
 My positive vision is not one of what Clinton can do for us, but about her potential as a vehicle for organization towards change. Her candidacy itself is a moderate affair with limited upside, but I can envision her *presidency* as providing the conditions for more meaningful impacts. This is the "best case scenario" for her victory.
 
@@ -45,4 +45,15 @@ Also, remember that a different court can hear a different case and overturn the
 
 Indeed, *Citizens United* is itself a bit of a reversal of a 2003 case, and there are many more examples of this happening as the SCOTUS changes composition. This is a more direct (and perhaps more likely) route to reducing the influence of big spenders, though it doesn't come with the same grassroots infrastructure benefits.
 
+## Shifting Gears
+
+The latter essays I have are arguments about why *not* to do things. They're perhaps a little less powerful, but also necessary. If you are feeling like you might go this way, or know people who are, then these are for you:
+
+*   [Don't Vote Third Party][2]
+*   [Don't Drop Out][3]
+*   [Remember The Stakes][4]
+
  [1]: http://www.slate.com/articles/news_and_politics/cover_story/2016/07/the_people_who_hate_hillary_clinton_the_most.html
+ [2]: /why-not-to-vote-third-party/
+ [3]: /now-is-not-the-time-to-drop-out/
+ [4]: /the-stakes-are-high/
