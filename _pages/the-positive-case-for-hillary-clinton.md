@@ -109,7 +109,7 @@ That didn't go well, and he was subsequently burned multiple times trying to "ne
 
 Hillary Clinton has lived with the GOP attempting to destroy her for a quarter century. She has no illusions about who her opposition will be and how they operate. If she wins, they will throw the kitchen sink at her, and she'll be as ready as anyone could reasonably be.
 
-*But that's not all!* Why not shoot for the moon with my [Dream Scenario][4]
+*But that's not all!* Why not shoot for the moon with my [Dream Scenario][4].
 
 ## Further Reading:
 
