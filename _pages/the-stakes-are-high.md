@@ -9,8 +9,6 @@ permalink: >
   http://dev-reluctantly-with-her.pantheonsite.io/the-stakes-are-high/
 published: true
 ---
-# The Stakes Are High
-
 ## This Is Not A Drill
 
 I am not a fan of compelling people to vote for someone because of how bad their opponent will be. That's why I make all the positive arguments — President Clinton would do some good, and provide a good playing field for organizing for better things. However, recognizing the stakes in this election is part of the equation.
@@ -21,9 +19,9 @@ Rooting for disaster is a deeply irresponsible thing to do. People who want to "
 
 ## Scenarios
 
-If you feel the need to use the stick instead of the carrot, here are my top concerns with a Trump presidency. I've grouped them by degree of likelihood. Depending on your temperment (or that of whoever you're attempting to sway) you may find the more or less extreme/likely considerations resonate. Feel free to preach your own dark future as well. There's plenty of material to work from.
+If you feel the need to use the stick instead of the carrot, here are my top concerns with a Trump presidency. I've grouped them by degree of likelihood. Depending on your temperament (or that of whoever you're attempting to sway) you may find the more or less extreme/likely considerations resonate. Feel free to preach your own dark future as well. There's plenty of material to work from.
 
-### Virtualy Certain Calamity
+### Virtually Certain Calamity
 
 Here are a things that are guaranteed to happen if Donald Trump becomes president:
 
@@ -47,13 +45,13 @@ Injecting Trump's personality into the national psyche has already had negative 
 
 ### My Dark Future
 
-I don't really think that Trump would do anything stupid with the nuclear codes, but there's lethal damage to be done witohut having to go that far. For instance:
+I don't really think that Trump would do anything stupid with the nuclear codes, but there's lethal damage to be done without having to go that far. For instance:
 
-*   National surveilence (NSA, etc) is weaponized and used against political opponents, allowing Trump to quash the left and consolidate power over the GOP.
+*   National surveillance (NSA, etc) is weaponized and used against political opponents, allowing Trump to quash the left and consolidate power over the GOP.
 *   Further powers are enacted to allow the criminalization/suppression of speech online. 
 *   Recession hits (this is structurally likely no matter who is elected) and unemployment among the Trumpen Proletariat spikes.
-*   Grassroots militia organizations are encouraged and subsidised. Militarization of police forces increases significantly.
+*   Grassroots militia organizations are encouraged and subsidized. Militarization of police forces increases significantly.
 *   Some kind of large terror event.
 *   ...
 
-It's hard not to see Trump as a narcicistic brute, and hard not to imagine him doing everything in his power to expand and maintain his power. He'll have a lot of tools at his disposal, and it's naive to assume he won't figure out how to use at least a few of them. If he's got some deviously competent staffers/advisors and a little luck, it could be pretty bad indeed.
+It's hard not to see Trump as a narcissistic brute, and hard not to imagine him doing everything in his power to expand and maintain his power. He'll have a lot of tools at his disposal, and it's naive to assume he won't figure out how to use at least a few of them. If he's got some deviously competent staffers/advisors and a little luck, it could be pretty bad indeed.
