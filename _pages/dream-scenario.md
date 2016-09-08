@@ -19,6 +19,8 @@ In a period of realignment, it's a lot better to play offense.
 
 The best case scenario for this fall is that not only does Clinton prevail, but that she does so as part of an elevated level of turnout which reverses control of the Senate, and narrows the GOP House majority. This would likely lead to a breakdown of organized and disciplined opposition, and create a window of opportunity to advance broadly popular legislation.
 
+## Back to a 50-State Strategy
+
 To me, Clinton's most exciting campaign promise is to [introduce a constitutional amendment to overturn Citizens United][1]. This is vital if we want to reduce the political influence of corporations and the hyper-wealthy. What's more, passing a constitutional amendment requires a nationwide referendum in which 38 out of 50 states must ratify the change. That means we'll need to build a serious 50-state strategy once again.
 
 Coupling the policy gain of fixing campaign finance with a 50-state organizational opportunity is a huge potential win, especially going into a midterm cycle, or even into a tough 2020 re-election race which will also put a number of state legislatures (and ergo the post-census redistricting process) in play. Much like the GOP used a wave of same-sex marriage bans to drive their supporters out in 2004, we could use an anti-corporate-money wave to drive ours.
