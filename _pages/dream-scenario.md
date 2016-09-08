@@ -1,6 +1,6 @@
 ---
 ID: 33
-post_title: Dream Scenario
+post_title: A Dream Scenario
 author: Josh Koenig
 post_date: 2016-09-07 03:48:54
 post_excerpt: ""
